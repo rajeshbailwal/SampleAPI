@@ -1,0 +1,6 @@
+@Override_HostAddress = http://localhost:5219
+
+GET {{Override_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
